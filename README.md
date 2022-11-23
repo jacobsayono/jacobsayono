@@ -1,6 +1,4 @@
 <!--### Hi there 👋-->
-
-<div align="center">
   
 [![Jacob’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacobsayono&custom_title=GitHub%20Stats&text_bold=false&bg_color=00000000&show_icons=true&include_all_commits=true&theme=outrun)](https://github.com/jacobsayono)
   
@@ -27,8 +25,6 @@
 ![UCLA](https://img.shields.io/badge/UCLA-005586?style=flat&logoColor=15B8E6)
 ![Udacity](https://img.shields.io/badge/Udacity-white?style=flat&logo=udacity&logoColor=2015FF)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-  
-</div>
 
 <!--
 **jacobsayono/jacobsayono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
