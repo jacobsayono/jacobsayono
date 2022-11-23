@@ -4,7 +4,7 @@
   
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobsayono&custom_title=Languages&bg_color=00000000&layout=compact&theme=outrun&langs_count=4&hide=jupyter%20notebook)](https://github.com/jacobsayono/github-readme-stats)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=jacobsayono.jacobsayono&left_color=black&right_color=darkslateblue)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=jacobsayono.jacobsayono&left_color=black&right_color=slateblue)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
