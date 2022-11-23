@@ -1,8 +1,10 @@
 <!--### Hi there 👋-->
-  
+
 [![Jacob’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacobsayono&custom_title=GitHub%20Stats&text_bold=false&bg_color=00000000&show_icons=true&include_all_commits=true&theme=outrun)](https://github.com/jacobsayono)
   
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobsayono&custom_title=Languages&bg_color=00000000&layout=compact&theme=outrun&langs_count=4&hide=jupyter%20notebook)](https://github.com/jacobsayono/github-readme-stats)
+
+![Visitor Count](https://profile-counter.glitch.me/jacobsayono/count.svg)
 
 <!--
 
