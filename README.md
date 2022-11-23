@@ -4,6 +4,8 @@
   
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobsayono&custom_title=Languages&bg_color=00000000&layout=compact&theme=outrun&langs_count=4&hide=jupyter%20notebook)](https://github.com/jacobsayono/github-readme-stats)
 
+<!--
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
@@ -31,7 +33,6 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<!--
 **jacobsayono/jacobsayono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
