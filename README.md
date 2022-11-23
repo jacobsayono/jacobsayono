@@ -1,4 +1,10 @@
-<!--### Hi there 👋 -->
+<!--### Hi there 👋 
+
+[![HitCount](https://hits.dwyl.com/jacobsayono/jacobsayono.svg?style=flat-square&show=unique)](http://hits.dwyl.com/jacobsayono/jacobsayono)
+
+![HitCount](http://hits.dwyl.com/jacobsayono/vercel-action.svg)
+
+-->
 
 [![Jacob’s GitHub Stats](https://github-readme-stats-jacobsayono.vercel.app/api?username=jacobsayono&custom_title=GitHub%20Stats&text_bold=false&bg_color=00000000&show_icons=true&theme=outrun)](https://github.com/jacobsayono)
   
