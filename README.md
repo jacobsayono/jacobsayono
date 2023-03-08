@@ -12,9 +12,9 @@
 
 [![Jacob’s GitHub Stats-Light](https://github-readme-stats-jacobsayono.vercel.app/api?username=jacobsayono&custom_title=GitHub%20Stats&text_bold=false&show_icons=true&theme=outrun#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
   
-[![Top Languages](https://github-readme-stats-jacobsayono.vercel.app/api/top-langs/?username=jacobsayono&custom_title=Languages&bg_color=00000000&layout=compact&theme=outrun&langs_count=4&hide=jupyter%20notebook#gh-dark-mode-only)](https://github.com/jacobsayono/github-readme-stats#gh-dark-mode-only)
+[![Top Languages](https://github-readme-stats-jacobsayono.vercel.app/api/top-langs/?username=jacobsayono&custom_title=Languages&bg_color=00000000&layout=compact&theme=outrun&langs_count=4&hide=jupyter%20notebook,cmake,makefile#gh-dark-mode-only)](https://github.com/jacobsayono/github-readme-stats#gh-dark-mode-only)
 
-[![Top Languages](https://github-readme-stats-jacobsayono.vercel.app/api/top-langs/?username=jacobsayono&custom_title=Languages&layout=compact&theme=outrun&langs_count=4&hide=jupyter%20notebook#gh-light-mode-only)](https://github.com/jacobsayono/github-readme-stats#gh-light-mode-only)
+[![Top Languages](https://github-readme-stats-jacobsayono.vercel.app/api/top-langs/?username=jacobsayono&custom_title=Languages&layout=compact&theme=outrun&langs_count=4&hide=jupyter%20notebook,cmake,makefile#gh-light-mode-only)](https://github.com/jacobsayono/github-readme-stats#gh-light-mode-only)
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=jacobsayono.jacobsayono&left_color=black&right_color=slateblue)
 
