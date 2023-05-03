@@ -8,6 +8,11 @@
 
 -->
 
+
+
+
+<!--
+
 [![Jacob’s GitHub Stats-Dark](https://github-readme-stats-jacobsayono.vercel.app/api?username=jacobsayono&custom_title=GitHub%20Stats&text_bold=false&bg_color=00000000&show_icons=true&theme=outrun#gh-dark-mode-only)](https://github.com/jacobsayono/github-readme-stats#gh-dark-mode-only)
 
 [![Jacob’s GitHub Stats-Light](https://github-readme-stats-jacobsayono.vercel.app/api?username=jacobsayono&custom_title=GitHub%20Stats&text_bold=false&show_icons=true&theme=outrun#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
@@ -44,6 +49,14 @@
 ![Udacity](https://img.shields.io/badge/Udacity-white?style=for-the-badge&logo=udacity&logoColor=2015FF)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+-->
+
+
+
+
+
+
 
 <!--
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jacobsayono&left_color=black&right_color=blue)
